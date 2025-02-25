@@ -12,7 +12,7 @@ Experimental Design](https://arxiv.org/abs/2502.17427). It is built to test and 
 
 * Clone the repository.
 
-* Navigate to the project directory and install dependencies using Poetry with `poetry install`.
+* Navigate to the project directory and install dependencies using pip or Poetry.
 
 ## Usage
 
